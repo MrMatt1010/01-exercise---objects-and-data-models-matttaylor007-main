@@ -1,0 +1,26 @@
+{
+  "name": "wdd01-challenge-template",
+  "version": "0.0.1",
+  "description": "Challenge Template.",
+  "main": "./Server/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Developers-Institute/WDD01-Challenge-Template.git"
+  },
+  "author": "Developers Institute",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Developers-Institute/WDD01-Challenge-Template/issues"
+  },
+  "homepage": "https://github.com/Developers-Institute/WDD01-Challenge-Template#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
